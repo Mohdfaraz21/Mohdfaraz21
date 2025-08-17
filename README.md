@@ -14,6 +14,8 @@
 <p align="left"> <a href="https://twitter.com/mohdfaraz21" target="blank"><img src="https://img.shields.io/twitter/follow/mohdfaraz21?logo=twitter&style=for-the-badge" alt="mohdfaraz21" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif" width="500" />
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohdfaraz21?tab=repositories](https://github.com/Mohdfaraz21?tab=repositories)
 
