@@ -1,7 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)]()
 
 <h1 align="center">Hi 👋, I'm Mohd Faraz</h1>
-<h3 align="center">I'm highly skilled and passionate software developer with expertise in the MERN stack with strong command over MongoDB,Express.js, React.js, and Node.js. I'm dedicated to building dynamic and scalable applications. I am constantly expanding my skills set, currently diving into Typescript to write the robust and type-safe applications. I am driven by a passion for innovation and aims to create impactful solutions that solve the real-world problems.</h3>
+<h3 align="center">💻 I'm a highly skilled and passionate Software Developer with expertise in the MERN Stack ⚡ (MongoDB 🍃, Express.js 🚀, React.js ⚛️, and Node.js 🌐).
+🚀 I'm dedicated to building dynamic and scalable applications.
+📚 Constantly expanding my skill set, currently diving into TypeScript 📝 to write robust and type-safe applications.
+✨ Driven by a passion for innovation, I aim to create impactful solutions that solve real-world problems 🌍.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdfaraz21&label=Profile%20views&color=0e75b6&style=flat" alt="mohdfaraz21" /> </p>
