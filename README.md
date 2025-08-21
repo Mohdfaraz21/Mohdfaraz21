@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohdfaraz21" target="blank"><img src="https://img.shields.io/twitter/follow/mohdfaraz21?logo=twitter&style=for-the-badge" alt="mohdfaraz21" /></a> </p>
 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif" width="350" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif" width="340" />
 
 - 🌱 I’m currently learning **TypeScript**
 
