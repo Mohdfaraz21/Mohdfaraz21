@@ -12,13 +12,13 @@
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** Next.js React.js, Redux Toolkit, HTML, CSS, Tailwind CSS  
+**Frontend:** Next.js, React.js, Redux Toolkit, HTML, CSS, Tailwind CSS, DaisyUI, shadcn/ui, Material UI (MUI)  
 **Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
 **Database:** MongoDB, MySQL  
+**Realtime:** Socket.io  
+**Deployment:** Vercel, Render  
+**DevOps & Tools:** Git, GitHub, Postman, MongoDB Atlas  
 **Core:** Data Structures & Algorithms, OOPs, DBMS  
-**Tools:** Git, GitHub, Postman, MongoDB Atlas  
-
----
 
 
 ## 📊 GitHub Stats
