@@ -4,8 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 MERN Stack Developer building scalable full-stack applications  
-- 🤖 Currently working as an LLM Intern (AI/Prompt Engineering)  
+- 💻 MERN Stack Developer building scalable full-stack applications    
 - 🧠 Strong in REST APIs, authentication systems, and backend architecture  
 - 📈 Actively improving Data Structures & Problem Solving  
 - 🎯 Seeking Software Development Engineer (SDE) opportunities  
@@ -13,7 +12,7 @@
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React.js, Redux Toolkit, HTML, CSS, Tailwind CSS  
+**Frontend:** Next.js React.js, Redux Toolkit, HTML, CSS, Tailwind CSS  
 **Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
 **Database:** MongoDB, MySQL  
 **Core:** Data Structures & Algorithms, OOPs, DBMS  
