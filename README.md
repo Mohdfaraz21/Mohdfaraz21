@@ -21,19 +21,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🤖 AI Resume Analyzer
-- AI-powered resume analysis tool with ATS scoring and real-time feedback  
-- Implemented resume-to-job matching using keyword and semantic analysis  
-- Built using React, Node.js, and LLM APIs  
-
-### 🌐 DevConnect
-- Developer networking platform with authentication and connection system  
-- Built REST APIs and implemented JWT-based security  
-- Optimized state management using Redux Toolkit  
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
