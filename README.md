@@ -24,9 +24,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdfaraz21&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohdfaraz21&show_icons=true&theme=tokyonight" />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohdfaraz21&theme=tokyonight" />
+</p>
 ---
 
 ## 🤝 Connect with Me
