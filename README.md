@@ -16,7 +16,7 @@
 **Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
 **Database:** MongoDB, MySQL  
 **Realtime:** Socket.io  
-**Deployment:** Vercel, Render  
+**Deployment:** Vercel, Render, AWS (EC2), Nginx  
 **DevOps & Tools:** Git, GitHub, Postman, MongoDB Atlas  
 **Core:** Data Structures & Algorithms, OOPs, DBMS  
 
