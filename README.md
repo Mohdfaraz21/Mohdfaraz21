@@ -31,7 +31,7 @@
 ---
 
 ## 🤝 Connect with Me
-- 📧 Email: mdfaraz.work@gmail.com  
+- 📧 Email: siddiqui.faraz0802@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/mohdfaraz21/  
 - 💻 GitHub: https://github.com/Mohdfaraz21  
 
