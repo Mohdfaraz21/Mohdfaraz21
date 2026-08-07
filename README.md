@@ -18,13 +18,21 @@ I'm particularly interested in **backend engineering, API design, database syste
 ## 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript (ES6+), TypeScript, SQL
+
 **Frontend:** React.js, Next.js, Redux Toolkit, Zustand, Tailwind CSS
+
 **Backend:** Node.js, Express.js, REST APIs, Socket.io, JWT Authentication, RBAC, Express Middleware
+
 **Database:** PostgreSQL, MongoDB, MySQL, SQLite, Prisma
+
 **Software Engineering:** API Design, MVC Architecture, Database Indexing, Caching, Pagination, Idempotency, ACID Transactions
+
 **Security:** RSA-OAEP, AES-256-GCM, SHA-256, Replay Protection, Tamper Detection
+
 **Cloud & Deployment:** AWS (EC2), Vercel, Render, Nginx
+
 **Tools:** Git, GitHub, Postman, MongoDB Atlas
+
 **Core:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
 ---
